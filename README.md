@@ -1,0 +1,1 @@
+This is my first attempt at a CRUD app! I'm an avid user of ToDoist, and I'm exploring what it takes to create a TODO application. I'm hoping to eventually create some features that I don't see in other apps. 
